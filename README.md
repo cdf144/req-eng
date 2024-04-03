@@ -1,6 +1,16 @@
-# Kỹ nghệ yêu cầu - Hệ thống Đèn giao thông
+# Kỹ nghệ yêu cầu - Hệ thống Đèn giao thông thông minh
 
 Repository này ghi lại kết quả quá trình Kỹ nghệ yêu cầu của nhóm 13 cho hệ thống đèn giao thông mới. Nhóm 13 phân tích hệ thống hiện tại (system-as-is) và đề xuất các cải tiến cho hệ thống tương lai (system-to-be).
+
+## Thành viên nhóm
+
+| Tên | MSV | Vai trò |
+|-|-|-|
+| Đỗ Ánh Dương | 21020616 | |
+| Dương Nhật Huy | 19020103 | |
+| Hoàng Đức Minh | 22028051 | |
+| Trần Đình Phú | 22028056 | Nhóm trưởng |
+| Trần Trọng Thịnh | 22028073 | |
 
 ## Mục tiêu dự án
 
